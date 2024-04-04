@@ -1,0 +1,14 @@
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projeto\Aula12If\Aula12If\bin\Debug\net8.0\Aula12If.exe
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projeto\Aula12If\Aula12If\bin\Debug\net8.0\Aula12If.deps.json
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projeto\Aula12If\Aula12If\bin\Debug\net8.0\Aula12If.runtimeconfig.json
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projeto\Aula12If\Aula12If\bin\Debug\net8.0\Aula12If.dll
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projeto\Aula12If\Aula12If\bin\Debug\net8.0\Aula12If.pdb
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projeto\Aula12If\Aula12If\obj\Debug\net8.0\Aula12If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projeto\Aula12If\Aula12If\obj\Debug\net8.0\Aula12If.AssemblyInfoInputs.cache
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projeto\Aula12If\Aula12If\obj\Debug\net8.0\Aula12If.AssemblyInfo.cs
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projeto\Aula12If\Aula12If\obj\Debug\net8.0\Aula12If.csproj.CoreCompileInputs.cache
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projeto\Aula12If\Aula12If\obj\Debug\net8.0\Aula12If.dll
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projeto\Aula12If\Aula12If\obj\Debug\net8.0\refint\Aula12If.dll
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projeto\Aula12If\Aula12If\obj\Debug\net8.0\Aula12If.pdb
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projeto\Aula12If\Aula12If\obj\Debug\net8.0\Aula12If.genruntimeconfig.cache
+C:\Users\salah\OneDrive\Área de Trabalho\Cursos\Projetos em c#\Projeto\Aula12If\Aula12If\obj\Debug\net8.0\ref\Aula12If.dll
